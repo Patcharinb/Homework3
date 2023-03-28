@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+
+}
+
+body {
+    background-image:url(img/sunbeam.jpg)
+}
+
+.box1 {
+    text-align: right;
+    color: rgb(243, 250, 251);
+}
+
+.box2 {
+    color: rgb(254, 253, 253);
+    text-align: center;
+    position: relative;
+    top: 100px;
+    
+}
+
+input {
+    width: 200px;
+}
+
+h3 {
+    box-sizing: border-box;
+    border: 50px;
+}
+
+button {
+    box-shadow:inset 0px 1px 0px 0px #759ceb;
+	background:linear-gradient(to bottom, #6891e3 5%, #5792ff 100%);
+	background-color:#6891e3;
+	border:1px solid #7892e6;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+}
+
+footer{
+    position: relative;
+    bottom: 20px;
+    margin-top: 220px;
+    color: white;
+}
+
